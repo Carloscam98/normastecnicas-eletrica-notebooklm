@@ -161,6 +161,8 @@ A adoção do padrão IEC pela ABNT visa a uniformização e a fiscalização da
 . Isso garante que componentes de diferentes fabricantes sejam compatíveis entre si e que as instalações operem dentro de limites térmicos seguros, protegendo pessoas, animais e o patrimônio
 . Além disso, em casos em que não existem normas brasileiras específicas, as normas da IEC (International Electrotechnical Commission) e da ISO servem como referência obrigatória obrigatória
 .
+
+
 ---
 
 ## 🛠️ Como utilizar
