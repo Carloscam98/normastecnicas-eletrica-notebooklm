@@ -29,8 +29,8 @@ O "conhecimento" deste notebook é extraído das 4 principais fontes bibliográf
 
 1.  **Norma NBR 5410:** O documento base que estabelece as condições a que devem satisfazer as instalações elétricas de baixa tensão.
 2.  **Manual de Instalações Prysmian:** Um guia prático e técnico focado em condutores elétricos e melhores práticas de mercado.
-3.  **Guia Técnico de Ligação CPFL:** Essencial para entender os padrões de entrada e conexão com a rede da concessionária.
-4.  **Apostila SPDA:** Material focado em Sistemas de Proteção contra Descargas Atmosféricas, complementando a segurança das instalações.
+3.  **Guia Técnico de Ligação CPFL e Neoenergia:** Essencial para entender os padrões de entrada e conexão com a rede da concessionária.
+4.  **Apostila SPDA Termotécnica:** Material focado em Sistemas de Proteção contra Descargas Atmosféricas, complementando a segurança das instalações.
 
 ---
 
@@ -45,4 +45,4 @@ O "conhecimento" deste notebook é extraído das 4 principais fontes bibliográf
 Este material tem caráter educativo. Sempre consulte a versão oficial e atualizada das normas na ABNT e os manuais vigentes das concessionárias antes de executar qualquer serviço de engenharia.
 
 ---
-Desenvolvido com ⚡ por [Carlos A Morato]
+Desenvolvido por [Carlos A Morato](https://www.linkedin.com/in/carlosamorato/)
